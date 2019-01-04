@@ -1,5 +1,4 @@
 # Mobile Robot Assistants for the Elderly (MoRobAE)
     
-A proposed workshop for ICRA 2019.
+The website for the ICRA 2019 workshop.
 
-More details coming soon.
