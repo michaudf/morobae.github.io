@@ -24,6 +24,7 @@ going to be addressed.
 We encourage researchers to submit their work to be presented at the workshop.
 Contributions may address but are not limited to the following topics :
 
+
  * Telepresence robotics for remote assistance
  * Robot hardware and software design for seniors
  * Sensing capabilities required for seniors-robot interaction
@@ -31,6 +32,9 @@ Contributions may address but are not limited to the following topics :
  * User-centered robot design in a socially and economically responsible fashion
  * Qualitative and quantitative approaches for evaluating the experience and
  impact of robots with seniors
+ * Outcomes of human-robot interaction pilot studies with seniors
+ * Long-term autonomy and deployment
+ * Robot communication and interaction design  
 
 ## Submission instructions
 

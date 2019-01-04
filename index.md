@@ -26,6 +26,9 @@ Topics discussed at the workshop will include but are not limited to:
  * User-centered robot design in a socially and economically responsible fashion
  * Qualitative and quantitative approaches for evaluating the experience and
  impact of robots with seniors
+ * Outcomes of human-robot interaction pilot studies with seniors
+ * Long-term autonomy and deployment
+ * Robot communication and interaction design  
 
 ### Proposed Schedule
 
