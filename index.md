@@ -13,7 +13,7 @@ We encourage researchers that want to discuss such projects to partipate in our
 workshop, which will be held during **[ICRA 2019](https://icra2019.org) in 
 Montréal, Québec, Canada in May 2019**.
 
-To submit your work, please consult our **[Call for participation](/cfp/)**.
+To submit your work, please consult our **[Call for participation](/cfp)**.
 
 ### Topics
 
