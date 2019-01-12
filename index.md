@@ -9,7 +9,11 @@ and to provide quality care.
 Mobile robotics is one alternative to address these issues, and is or has been
 addressed in large scale initiatives all around the world.
 
-We encourage researchers that want to discuss such projects to partipate in our
+The main focus of this workshop is putting together researchers interested in the design of mobile social and assistive robots for the elderly and letting them share and learn more about their respective progress and challenges. Many initiatives all around the world, large or small, have or are addressing this topic from different perspectives (e.g., applications, user-centric design or assessment, technology development), and still important issues need to be addressed for robots to be deployed to assist the elderly in daily activities.
+
+The targeted outcome of the workshop is to acquire a global view of what is being done and who is interested in the area of robot assistants for the elderly, to help coordinate the scientific effort in this area.
+
+We therefore encourage researchers that want to discuss such projects to partipate in our
 workshop, which will be held during **[ICRA 2019](https://icra2019.org) in 
 Montréal, Québec, Canada in May 2019**.
 
@@ -32,10 +36,10 @@ Topics discussed at the workshop will include but are not limited to:
 
 ### Proposed Schedule
 
- * Part 1 (90 min): Presentation of invited talks
- * Part 2 (60 min): Bull session on robot assistants for the elderly
- * Part 3 (30 min): Roadmapping - Gathering ideas on future projects and
-                    partnerships
+ * Part 1 (90 min): Presentation of research initiatives and projects (including invited talks, spotlight talks and oral presentations)
+ * Part 2 (60 min): Open discussion (a.k.a. bull session) on robot assistants for the elderly
+ * Part 3 (30 min): Roadmapping - gathering ideas on future projects, research directions and
+                    potential partnerships
 
 ### Organizers
 
