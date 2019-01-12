@@ -13,7 +13,7 @@ Assistant for MCI Patients at home) and MARIO (Managing Active and healthy aging
 with use of caRing servIce robots, Ireland), all three funded by the European
 Union H2020 Program, 2015-2018, and VIGIL-Robot, funded by AGE-WELL Network of
 Centres of Excellence in Canada Program). 
-The goals of the workshop are to learn about such interdisciplinary initiatives,
+The goals of the workshop are to learn about such interdisciplinary initiatives and others,
 what are the lessons learned, and reflect upon what is required to make these
 robots move out of the labs into real applications. Issues regarding
 user-centered design in a socially and economically responsible fashion are also
